@@ -12,4 +12,17 @@
 + partie
 
 
-Ce mot est en **GRAS**, celui ci est en *italique*, et celui la est _souligné_
+Ce mot est en **GRAS**, celui ci est en *italique*, et celui la est __souligné__
+
+titre
+=====
+
+sous titre
+----------
+
+# a
+## b
+### c
+#### d
+##### e
+###### f
