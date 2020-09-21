@@ -10,3 +10,5 @@
     + sous partie
     + sous partie
 + partie
+
+test*;
