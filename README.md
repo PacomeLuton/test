@@ -12,4 +12,4 @@
 + partie
 
 
-Ce mot est en **GRAS**, celui ci est en *italique* 
+Ce mot est en **GRAS**, celui ci est en *italique*, et celui la est _souligné_
